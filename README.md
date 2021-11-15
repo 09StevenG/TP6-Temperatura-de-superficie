@@ -38,9 +38,17 @@ Como la relación entre emisividad y reflectancia es igual a 1, un buen reflecto
 ### **Aplicaciones de la teledetección térmica: ** 
 Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores que se pueden utilizar en cada una de dichas aplicaciones)
 
-- Identificación de los materiales de la superficie de la Tierra (como tipos y estructuras de suelos, minerales y rocas).
+- Identificación los materiales de la superficie de la Tierra (como tipos y estructuras de suelos, minerales y rocas).
+ Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor ASTER es el indicado ya que tiene gran capacidad para esta tarea utilizando longitudes de onda de luz infrarroja térmica.
+
+![Mineral Mapping,Escondida Mine](https://www.earthondrive.com/image/data/Temp/aster/aster_3.jpg)
+
 - Estimar la humedad del suelo y la evapotranspiración de la vegetación.
+
+
 - Estudiar el balance energético de la superficie terrestre, la cobertura del suelo y el efecto isla de calor urbano.
+
+![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png)
 
 ## Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
 
