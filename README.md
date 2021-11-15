@@ -61,10 +61,13 @@ Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor A
 - Modifique el código para incorporar las Imagenes de MODIS para la noche.
 
 - Realice una serie temporal para larga que inice a partir del 2000 hasta 2016. Explique la variabilidad de la información.
-![](16años Día.png)
+- 
+![](16añosDia.png)
 ![](16añosNoche.png)
-![](ImagenDia16A.jpeg)
-![](ImageNoche16A.jpeg)
+
+<img src="ImagenDia16A.jpeg" alt="drawing" width="400" height="400">  <img src="ImageNoche16A.jpeg" alt="drawing" width="400" height="400">
+
+
 - Luego haga una serie temporal de un año, que va de enero 2015 a diciembre del 2015.
 
 - Realice gráficos para cada una de las series. Analícelos
