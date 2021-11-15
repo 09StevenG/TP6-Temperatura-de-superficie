@@ -9,9 +9,15 @@ Utilizar el set de datos de MODIS LST(Land Surface Temperature).
 Realizar análisis temporales de periodos largos y periodos cortos para entender la variabilidad de los datos.
 
 
-### Introducción: 
-Defina e ilustre: transmitancia y radiancia; cuerpos negros y su relación con la emisividad (dar ejemplos de emisividad de diferentes superficies).
-Desarrolle tres aplicaciones que tiene la teledetección térmica (ilustre cada una de las aplicaciones y mencione los sensores que se pueden utilizar en cada una de dichas aplicaciones)
+### Introducción  
+
+### **Transmitancia y radiancia**
+
+### **cuerpos negros y su relación con la emisividad** 
+(dar ejemplos de emisividad de diferentes superficies)
+
+## *Aplicaciones de la teledetección térmica** 
+Desarrolle (ilustre cada una de las aplicaciones y mencione los sensores que se pueden utilizar en cada una de dichas aplicaciones)
 
 ### Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
 
