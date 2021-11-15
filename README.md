@@ -42,7 +42,7 @@ Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores 
 
 Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor ASTER es el indicado ya que tiene gran capacidad para esta tarea utilizando longitudes de onda de luz infrarroja térmica.
  
-![](https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg){:height="26px" width="26px"}
+![](https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg)
 
 - Estimar la humedad del suelo y la evapotranspiración de la vegetación.
 
@@ -50,11 +50,10 @@ Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor A
 
 > DHI GRAS junto con IRTA y SANDHOLT trabajaron en el desarrollo de un método para fusionar datos Sentinel-2 y Sentinel-3, con el objetivo de obtener mapas ET con una resolución de 20 m. Este fue el objetivo principal del proyecto Sen-ET.
 
-![](https://www.dhi-gras.com/wp-content/uploads/sites/9/2020/04/ETFig_GRASlogo-1.png){:height="26px" width="26px"}
-
+![](https://www.dhi-gras.com/wp-content/uploads/sites/9/2020/04/ETFig_GRASlogo-1.png)
 - Estudiar el balance energético de la superficie terrestre, la cobertura del suelo y el efecto isla de calor urbano, utilizando Thermal Infrared Sensor (TIRS) en Landsat 8.
 
-![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png){:height="26px" width="26px"}
+![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png)
 
 ## Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
 
