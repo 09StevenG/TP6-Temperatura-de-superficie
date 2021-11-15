@@ -42,8 +42,7 @@ Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores 
 
 Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor ASTER es el indicado ya que tiene gran capacidad para esta tarea utilizando longitudes de onda de luz infrarroja térmica.
  
-
-<img src="https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg" width="200" height="200" />
+![](https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg){:height="36px" width="36px"}
 
 - Estimar la humedad del suelo y la evapotranspiración de la vegetación.
 
