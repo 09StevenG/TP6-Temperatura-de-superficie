@@ -42,7 +42,7 @@ Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores 
 
 Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor ASTER es el indicado ya que tiene gran capacidad para esta tarea utilizando longitudes de onda de luz infrarroja térmica.
  
-![Mineral Mapping,Escondida Mine](https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg)
+![Mineral Mapping,Escondida Mine](https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg =100x20)
 
 - Estimar la humedad del suelo y la evapotranspiración de la vegetación.
 
@@ -50,11 +50,11 @@ Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor A
 
 > DHI GRAS junto con IRTA y SANDHOLT trabajaron en el desarrollo de un método para fusionar datos Sentinel-2 y Sentinel-3, con el objetivo de obtener mapas ET con una resolución de 20 m. Este fue el objetivo principal del proyecto Sen-ET.
 
-![](https://www.dhi-gras.com/wp-content/uploads/sites/9/2020/04/ETFig_GRASlogo-1.png)
+![](https://www.dhi-gras.com/wp-content/uploads/sites/9/2020/04/ETFig_GRASlogo-1.png =100x20)
 
-- Estudiar el balance energético de la superficie terrestre, la cobertura del suelo y el efecto isla de calor urbano.
+- Estudiar el balance energético de la superficie terrestre, la cobertura del suelo y el efecto isla de calor urbano, utilizando Thermal Infrared Sensor (TIRS) en Landsat 8.
 
-![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png)
+![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png =100x20)
 
 ## Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
 
@@ -89,8 +89,8 @@ A finales del siglo XX e inicios del XXI, se registraron sequías severas en la 
 
 Weng, Qihao. 2012. “Percepción térmica remota”. Cap. 9 en Introducción a la teledetección contemporánea . 1ª ed. Nueva York: McGraw-Hill Education. https://www-accessengineeringlibrary-com.ezproxy.sibdi.ucr.ac.cr/content/book/9780071740111/chapter/chapter9
 
-https://www.dhi-gras.com/news-room/wateruse/
+DHI, 2020. Satellites are playing an important role in efficient management of water resources. Recuperado de https://www.dhi-gras.com/news-room/wateruse/
 
-http://urbanhi.net/uhi-cities/baltimore.html
+Urban Heat Islands (UHI). Recuperado de http://urbanhi.net/uhi-cities/baltimore.html
 
-https://www.satimagingcorp.com/satellite-sensors/other-satellite-sensors/aster/
+ASTER satellite sensor specifications. Satellite Imaging Corp. Recuperado de https://www.satimagingcorp.com/satellite-sensors/other-satellite-sensors/aster/
