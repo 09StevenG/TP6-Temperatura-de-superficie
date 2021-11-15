@@ -13,7 +13,7 @@ Realizar análisis temporales de periodos largos y periodos cortos para entender
 
 ### **Transmitancia y radiancia**
 
-Es parte de la irradiancia que transmite la superficie receptora y es la magnitud que detecta el sensor.
+L transmitancia es parte de la irradiancia que transmite la superficie receptora y es la magnitud que detecta el sensor.
 > La transmitancia se refiere al movimiento de energía a través de una superficie; es la relación entre la radiación reflejada, transmitida y  absorbida (Weng, 2012). 
 
 La Radiancia es el flujo radiante que abandona un cuerpo, este depende de su temperatura cinética y emisividad.
@@ -23,6 +23,7 @@ La Radiancia es el flujo radiante que abandona un cuerpo, este depende de su tem
 (dar ejemplos de emisividad de diferentes superficies)
 
 > Un radiador hipotético e ideal que absorbe y reemite totalmente toda la energía que incide sobre él (Weng, 2012).
+
 La emisividad es el coeficiente que describe la eficiencia con la que un objeto irradia energía en comparación con un cuerpo negro
 
 ### *Aplicaciones de la teledetección térmica** 
