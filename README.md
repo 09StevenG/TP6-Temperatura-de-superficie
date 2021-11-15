@@ -39,14 +39,21 @@ Como la relación entre emisividad y reflectancia es igual a 1, un buen reflecto
 Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores que se pueden utilizar en cada una de dichas aplicaciones)
 
 - Identificación los materiales de la superficie de la Tierra (como tipos y estructuras de suelos, minerales y rocas).
- Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor ASTER es el indicado ya que tiene gran capacidad para esta tarea utilizando longitudes de onda de luz infrarroja térmica.
+
+Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor ASTER es el indicado ya que tiene gran capacidad para esta tarea utilizando longitudes de onda de luz infrarroja térmica.
  
 ![Mineral Mapping,Escondida Mine](https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg)
 
 - Estimar la humedad del suelo y la evapotranspiración de la vegetación.
 
+> Para modelar ET de forma robusta, se necesitan datos satelitales tanto ópticos como térmicos. Los primeros datos son adquiridos diariamente por Sentinel-3 a una resolución de 300 my por Sentinel-2 cada 3 a 5 días a una resolución de 10 a 20 m. Los datos térmicos solo los adquiere Sentinel-3 con una resolución de aproximadamente 1 km. Las estimaciones de ET derivadas directamente de estos datos térmicos también tendrían una resolución de “solo” 1 km, lo que oscurecería muchas características del paisaje agrícola. 
+
+> DHI GRAS junto con IRTA y SANDHOLT trabajaron en el desarrollo de un método para fusionar datos Sentinel-2 y Sentinel-3, con el objetivo de obtener mapas ET con una resolución de 20 m. Este fue el objetivo principal del proyecto Sen-ET.
+
+![](https://www.dhi-gras.com/wp-content/uploads/sites/9/2020/04/ETFig_GRASlogo-1.png)
 
 - Estudiar el balance energético de la superficie terrestre, la cobertura del suelo y el efecto isla de calor urbano.
+
 ![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png)
 
 ## Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
@@ -81,3 +88,9 @@ A finales del siglo XX e inicios del XXI, se registraron sequías severas en la 
 
 
 Weng, Qihao. 2012. “Percepción térmica remota”. Cap. 9 en Introducción a la teledetección contemporánea . 1ª ed. Nueva York: McGraw-Hill Education. https://www-accessengineeringlibrary-com.ezproxy.sibdi.ucr.ac.cr/content/book/9780071740111/chapter/chapter9
+
+https://www.dhi-gras.com/news-room/wateruse/
+
+http://urbanhi.net/uhi-cities/baltimore.html
+
+https://www.satimagingcorp.com/satellite-sensors/other-satellite-sensors/aster/
