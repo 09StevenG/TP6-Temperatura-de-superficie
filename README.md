@@ -9,14 +9,23 @@ Utilizar el set de datos de MODIS LST(Land Surface Temperature).
 Realizar análisis temporales de periodos largos y periodos cortos para entender la variabilidad de los datos.
 
 
-### Introducción  
+## Introducción  
 
 ### **Transmitancia y radiancia**
+
+Es parte de la irradiancia que transmite la superficie receptora y es la magnitud que detecta el sensor.
+> La transmitancia se refiere al movimiento de energía a través de una superficie; es la relación entre la radiación reflejada, transmitida y  absorbida (Weng, 2012). 
+
+La Radiancia es el flujo radiante que abandona un cuerpo, este depende de su temperatura cinética y emisividad.
+
 
 ### **Cuerpos negros y su relación con la emisividad** 
 (dar ejemplos de emisividad de diferentes superficies)
 
-## *Aplicaciones de la teledetección térmica** 
+> Un radiador hipotético e ideal que absorbe y reemite totalmente toda la energía que incide sobre él (Weng, 2012).
+La emisividad es el coeficiente que describe la eficiencia con la que un objeto irradia energía en comparación con un cuerpo negro
+
+### *Aplicaciones de la teledetección térmica** 
 Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores que se pueden utilizar en cada una de dichas aplicaciones)
 
 ### Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
@@ -43,3 +52,11 @@ A finales del siglo XX e inicios del XXI, se registraron sequías severas en la 
 
 ##### Resultados: Análisis de mapas y gráficos
 
+
+
+
+
+
+
+
+Weng, Qihao. 2012. “Percepción térmica remota”. Cap. 9 en Introducción a la teledetección contemporánea . 1ª ed. Nueva York: McGraw-Hill Education. https://www-accessengineeringlibrary-com.ezproxy.sibdi.ucr.ac.cr/content/book/9780071740111/chapter/chapter9
