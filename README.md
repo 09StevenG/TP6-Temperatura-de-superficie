@@ -13,23 +13,24 @@ Realizar análisis temporales de periodos largos y periodos cortos para entender
 
 ### **Transmitancia y radiancia**
 
-L transmitancia es parte de la irradiancia que transmite la superficie receptora y es la magnitud que detecta el sensor.
+La transmitancia es parte de la irradiancia que transmite la superficie receptora.
 > La transmitancia se refiere al movimiento de energía a través de una superficie; es la relación entre la radiación reflejada, transmitida y  absorbida (Weng, 2012). 
 
-La Radiancia es el flujo radiante que abandona un cuerpo, este depende de su temperatura cinética y emisividad.
+La Radiancia es el flujo radiante que abandona un cuerpo, esta guarda relación con la temperatura y emisividad, y a partir de esta se puede inferir la temperatura de una superficie
+Con base en la ley de Stefan-Boltzmann se puede calcular la radiancia de un material multplicando la emisividad espectral del material y la temperatura radiante.
 
 
 ### **Cuerpos negros y su relación con la emisividad** 
 (dar ejemplos de emisividad de diferentes superficies)
 
-> Un radiador hipotético e ideal que absorbe y reemite totalmente toda la energía que incide sobre él (Weng, 2012).
+> Un cuerpo negro es un radiador hipotético e ideal que absorbe y reemite totalmente toda la energía que incide sobre él (Weng, 2012).
 
-La emisividad es el coeficiente que describe la eficiencia con la que un objeto irradia energía en comparación con un cuerpo negro
+Minetras que la emisividad es el coeficiente que describe la eficiencia con la que un objeto irradia energía en comparación con un cuerpo negro, y la cantidad de energía radiante emitida por este cuerpo negro depende de la temperatura y longitud de onda. La ley de Planck describe el resplandor espectral de la radiación electromagnética en todas las longitudes de onda emitidas por un cuerpo negro a una temperatura absoluta. específica.
 
-### *Aplicaciones de la teledetección térmica** 
+### **Aplicaciones de la teledetección térmica** 
 Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores que se pueden utilizar en cada una de dichas aplicaciones)
 
-### Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
+## Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
 
 
 - Modifique el código para incorporar las Imagenes de MODIS para la noche.
@@ -41,7 +42,7 @@ Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores 
 - Realice gráficos para cada una de las series. Analícelos
 - Analice el mapa para el periodo temporal de 16 años y el de un año
 
-#### Caso de estudio 
+## Caso de estudio 
 
 El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el momento de la sequía severa más reciente en Costa Rica, específicamente zona Chorotega, a fin de prepararse mejor para futuras sequías. 
 -	La sequía más severa fue en los años 2014-2015
