@@ -27,7 +27,7 @@ Con base en la ley de Stefan-Boltzmann se puede calcular la radiancia de un mate
 
 Mientras que la emisividad es el coeficiente que describe la eficiencia con la que un objeto irradia energía en comparación con un cuerpo negro, y la cantidad de energía radiante emitida por este cuerpo negro depende de la temperatura y longitud de onda. La ley de Planck describe el resplandor espectral de la radiación electromagnética en todas las longitudes de onda emitidas por un cuerpo negro a una temperatura absoluta. específica.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flukeprocessinstruments.com%2Fes%2Fservice-and-support%2Fknowledge-center%2Finfrared-technology%2Fwhat-emissivity%253F&psig=AOvVaw3QHRpI-6nPbFU_lyoplv3x&ust=1637097672400000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD4x52mm_QCFQAAAAAdAAAAABAD)
+![](https://www.flukeprocessinstruments.com/sites/default/files/emissivity.png)
 
 >Todos los materiales reales tienen un valor de e entre 0 y 1, que es espectralmente dependiente, es decir, cambia con la longitud de onda. Además, el contenido de agua, la composición química, la estructura y la rugosidad también influyen en la emisividad de las características del suelo (Snyder, Wan, Zhang y Feng, 1998).
 
