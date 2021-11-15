@@ -40,7 +40,8 @@ Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores 
 
 - Identificación los materiales de la superficie de la Tierra (como tipos y estructuras de suelos, minerales y rocas).
  Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor ASTER es el indicado ya que tiene gran capacidad para esta tarea utilizando longitudes de onda de luz infrarroja térmica.
-![Mineral Mapping,Escondida Mine](https://s3.amazonaws.com/content.satimagingcorp.com/media/cms_page_media/78/aster-mining%20escondida%20mine.jpg)
+ 
+![Mineral Mapping,Escondida Mine](https://content.satimagingcorp.com/static/galleryimages/aster-mining-web.jpg)
 
 - Estimar la humedad del suelo y la evapotranspiración de la vegetación.
 
