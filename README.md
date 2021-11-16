@@ -21,7 +21,6 @@ Con base en la ley de Stefan-Boltzmann se puede calcular la radiancia de un mate
 
 
 ### **Cuerpos negros y su relación con la emisividad** 
-(dar ejemplos de emisividad de diferentes superficies)
 
 > Un cuerpo negro es un radiador hipotético e ideal que absorbe y reemite totalmente toda la energía que incide sobre él (Weng, 2012).
 
@@ -36,7 +35,6 @@ Como la relación entre emisividad y reflectancia es igual a 1, un buen reflecto
 
 
 ### **Aplicaciones de la teledetección térmica: ** 
-Desarrolle 3 apps (ilustre cada una de las aplicaciones y mencione los sensores que se pueden utilizar en cada una de dichas aplicaciones)
 
 - Identificación los materiales de la superficie de la Tierra (como tipos y estructuras de suelos, minerales y rocas).
 
@@ -48,10 +46,13 @@ Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor A
 
 > Para modelar ET de forma robusta, se necesitan datos satelitales tanto ópticos como térmicos. Los primeros datos son adquiridos diariamente por Sentinel-3 a una resolución de 300 my por Sentinel-2 cada 3 a 5 días a una resolución de 10 a 20 m. Los datos térmicos solo los adquiere Sentinel-3 con una resolución de aproximadamente 1 km. Las estimaciones de ET derivadas directamente de estos datos térmicos también tendrían una resolución de “solo” 1 km, lo que oscurecería muchas características del paisaje agrícola. 
 
-> DHI GRAS junto con IRTA y SANDHOLT trabajaron en el desarrollo de un método para fusionar datos Sentinel-2 y Sentinel-3, con el objetivo de obtener mapas ET con una resolución de 20 m. Este fue el objetivo principal del proyecto Sen-ET.
+> DHI GRAS junto con IRTA y SANDHOLT trabajaron en el desarrollo de un método para fusionar datos Sentinel-2 y Sentinel-3, con el objetivo de obtener mapas ET con una resolución de 20 m. Este fue el objetivo principal del proyecto Sen-ET. 
 
 ![](https://www.dhi-gras.com/wp-content/uploads/sites/9/2020/04/ETFig_GRASlogo-1.png)
-- Estudiar el balance energético de la superficie terrestre, la cobertura del suelo y el efecto isla de calor urbano, utilizando Thermal Infrared Sensor (TIRS) en Landsat 8.
+
+- Estudiar el balance energético de la superficie terrestre, la cobertura del suelo y el efecto isla de calor urbano.
+
+Para analizar islas de calor es posible utilizar el Thermal Infrared Sensor (TIRS) en Landsat 8. De igual forma el sensor ATLAS puede ser utilizado para escalas más locales
 
 ![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png)
 
@@ -61,17 +62,20 @@ Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor A
 - Modifique el código para incorporar las Imagenes de MODIS para la noche.
 
 - Realice una serie temporal para larga que inice a partir del 2000 hasta 2016. Explique la variabilidad de la información.
-- 
-![](16añosDia.png)
-![](16añosNoche.png)
 
 <img src="ImagenDia16A.jpeg" alt="drawing" width="400" height="400">  <img src="ImageNoche16A.jpeg" alt="drawing" width="400" height="400">
+
+![](16añosDia.png)
+![](16añosNoche.png)
 
 
 - Luego haga una serie temporal de un año, que va de enero 2015 a diciembre del 2015.
 
-- Realice gráficos para cada una de las series. Analícelos
-- Analice el mapa para el periodo temporal de 16 años y el de un año
+<img src="ImagenDia2015.jpeg" alt="drawing" width="400" height="400"> <img src="ImagenDia2015.jpeg" alt="drawing" width="400" height="400">
+
+![](2015_1añoDía.png)
+![](2015_1añoNoche.png)
+
 
 ## Caso de estudio 
 
