@@ -97,17 +97,18 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 
 -	Analice las máximas de temperaturas y contrastes de estacionalidad climática.
 
+La máxima temperatura al visualizar las series temporales se presenta en los primeros 6 meses en el año 2015 con una media de 33 grados celsius y llegando con una temperatura máxima hasta 36,6 grados celsius en el mes de abril. La media durante los primeros 6 meses del año 2014 fue de 32 grados celsius con una máxima de 35,6 igualmente en el mes de abril.
+Es por ello que se refuerza lo conocido en el Pacífico Norte de Costa Rica, de una época seca bien definida que abarca desde el mes de diciembre hasta abril. En ambas series se puede identificar la disminución de la temperatura a partir del mes de mayo que se extiende hasta finales de octubre. Es preciso destacar lo expuesto por Gutiérrez (2021) "es normal que en el mes de julio haya una disminución en la precipitación, a la cual se le conoce como Veranillo de San Juan o canícula, esto por un período de 2 a 3 semanas (Birkel, et ál., 2017). Las máximas precipitaciones ocurren en octubre y se relacionan con la posición de la Zona de Convergencia Intertropical (ZCIT)"(p.02). 
+
 A finales del siglo XX e inicios del XXI, se registraron sequías severas en la región Chorotega. Temperaturas registradas entre enero a mayo del año 2000 en esa región.
 
 ![](añodosmil.png)
 
 ![](2000.png)
 
+El 06 de abril del 2000 se registró una temperatura de 37 grados Celsius, siendo un indicador de la sequía severa en la región. Es fundamental realizar un seguimiento constante de las variaciones en temperatura pues las consecuencias de periodos extensos con reducción del recurso hídrico impactan actividades socioeconómicas de una población mayormente rural y dependiente del serctor agropecuario. 
 
-##### Resultados: Análisis de mapas y gráficos
-
-
-
+> Dentro de las áreas en el nivel mundial donde la sequía es recurrente, se encuentra el Corredor  Seco  Centroamericano  (CSC),  el  cual  es  una  franja  con  una  alta  incidencia  de  sequías  (Gotlieb et al., 2019). El CSC se extiende a lo largo de la vertiente del Pacífico de Centroamérica, desde Chiapas, México hasta Guanacaste en Costa Rica e incluye el Arco Seco de Panamá (CCAD, 2011; Gotlieb et al., 2019).(Quesada et al.,2020,p.17). 
 
 
 
@@ -120,3 +121,7 @@ DHI, 2020. Satellites are playing an important role in efficient management of w
 Urban Heat Islands (UHI). Recuperado de http://urbanhi.net/uhi-cities/baltimore.html
 
 ASTER satellite sensor specifications. Satellite Imaging Corp. Recuperado de https://www.satimagingcorp.com/satellite-sensors/other-satellite-sensors/aster/
+
+Quesada-Hernández, L. E., Hidalgo, H. G., & Alfaro, E. J. (2020). Asociación entre algunos índices de sequía e impactos socio-productivos en el Pacífico Norte de Costa Rica. Revista de Ciencias Ambientales, 54(1), 16-32.
+
+Gutiérrez García, K. Análisis probabilístico de sequía meteorológica mediante Cadenas de Markov y Redes Bayseianas; Cuenca del Río Tempisque, Guanacaste.
