@@ -83,10 +83,10 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 -	La sequía más severa fue en los años 2014-2015. Realice series temporales de términos cortos (3-6 meses)
 
 <img src="enerojulio2014.jpg" alt="drawing" width="400" height="400"> <img src="juliodiciembre2014.jpg" alt="drawing" width="400" height="400">
-> 2014
+> Serie temporal de 6 meses año 2014
 
-<img src="enerojunio2015.jpg" alt="drawing" width="400" height="400"> <img src="juliodiciembre2015.jpg" alt="drawing" width="400" height="400">
-
+<img src="enerojunio2015.png" alt="drawing" width="400" height="400"> <img src="juliodiciembre2015.jpg" alt="drawing" width="400" height="400">
+> Serie temporal de 6 meses año 2015
 
 
 
