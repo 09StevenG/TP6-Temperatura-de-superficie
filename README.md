@@ -82,6 +82,8 @@ Para analizar islas de calor es posible utilizar el Thermal Infrared Sensor (TIR
 El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el momento de la sequía severa más reciente en Costa Rica, específicamente zona Chorotega, a fin de prepararse mejor para futuras sequías. 
 -	La sequía más severa fue en los años 2014-2015. Realice series temporales de términos cortos (3-6 meses)
 
+![](enerojulio2014.jpg)
+![](juniodiciembre2014.jpg)
 
 -	Analice las máximas de temperaturas y contrastes de estacionalidad climática.
 
