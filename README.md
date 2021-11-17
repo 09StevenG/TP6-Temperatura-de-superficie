@@ -92,7 +92,7 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 <img src="enerojunio2015.png" alt="drawing" width="400" height="400"> <img src="juliodiciembre2015.jpg" alt="drawing" width="400" height="400">
 > Serie temporal de 6 meses año 2015
 
-![](EJ2015.png)
+![](2015.png)
 ![](JD2015.png)
 
 -	Analice las máximas de temperaturas y contrastes de estacionalidad climática.
