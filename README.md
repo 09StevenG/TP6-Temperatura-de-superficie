@@ -85,6 +85,9 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 <img src="enerojulio2014.jpg" alt="drawing" width="400" height="400"> <img src="juliodiciembre2014.jpg" alt="drawing" width="400" height="400">
 > Serie temporal de 6 meses año 2014
 
+![](EJ2014.png)
+![](JD2014.png)
+
 
 <img src="enerojunio2015.png" alt="drawing" width="400" height="400"> <img src="juliodiciembre2015.jpg" alt="drawing" width="400" height="400">
 > Serie temporal de 6 meses año 2015
