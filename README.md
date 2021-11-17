@@ -85,6 +85,7 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 <img src="enerojulio2014.jpg" alt="drawing" width="400" height="400"> <img src="juliodiciembre2014.jpg" alt="drawing" width="400" height="400">
 > Serie temporal de 6 meses año 2014
 
+
 <img src="enerojunio2015.png" alt="drawing" width="400" height="400"> <img src="juliodiciembre2015.jpg" alt="drawing" width="400" height="400">
 > Serie temporal de 6 meses año 2015
 
@@ -94,7 +95,7 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 
 A finales del siglo XX e inicios del XXI, se registraron sequías severas en la región Chorotega. Cuales fueres las temperaturas registradas entre enero a mayo del año 2000 en esa región.
 
-![](añodosmil.jpg)
+![](añodosmil.png)
 
 ##### Resultados: Análisis de mapas y gráficos
 
