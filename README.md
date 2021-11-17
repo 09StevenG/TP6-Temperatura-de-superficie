@@ -94,6 +94,7 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 
 A finales del siglo XX e inicios del XXI, se registraron sequías severas en la región Chorotega. Cuales fueres las temperaturas registradas entre enero a mayo del año 2000 en esa región.
 
+![](añodosmil.jpg)
 
 ##### Resultados: Análisis de mapas y gráficos
 
