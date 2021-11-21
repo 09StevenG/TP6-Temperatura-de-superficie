@@ -58,6 +58,7 @@ Para analizar islas de calor es posible utilizar el Thermal Infrared Sensor (TIR
 
 ## Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
 
+> [Enlace al Código GEE MODIS](https://code.earthengine.google.com/1f0b553adef28714581359ef14f293ac)
 
 - Modifique el código para incorporar las Imagenes de MODIS para la noche.
 
@@ -78,6 +79,8 @@ Para analizar islas de calor es posible utilizar el Thermal Infrared Sensor (TIR
 
 
 ## Caso de estudio 
+
+> [Enlace al Código GEE Caso de estudio](https://code.earthengine.google.com/227acf9d50ba4fadcae66130d9c5e388)
 
 El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el momento de la sequía severa más reciente en Costa Rica, específicamente zona Chorotega, a fin de prepararse mejor para futuras sequías. 
 -	La sequía más severa fue en los años 2014-2015. Realice series temporales de términos cortos (3-6 meses)
@@ -111,7 +114,7 @@ El 06 de abril del 2000 se registró una temperatura de 37 grados Celsius, siend
 > Dentro de las áreas en el nivel mundial donde la sequía es recurrente, se encuentra el Corredor  Seco  Centroamericano  (CSC),  el  cual  es  una  franja  con  una  alta  incidencia  de  sequías  (Gotlieb et al., 2019). El CSC se extiende a lo largo de la vertiente del Pacífico de Centroamérica, desde Chiapas, México hasta Guanacaste en Costa Rica e incluye el Arco Seco de Panamá (CCAD, 2011; Gotlieb et al., 2019).(Quesada et al.,2020,p.17). 
 
 
-                                                                        Referencias 
+                                                                        **Referencias** 
 
 
 Weng, Qihao. 2012. “Percepción térmica remota”. Cap. 9 en Introducción a la teledetección contemporánea . 1ª ed. Nueva York: McGraw-Hill Education. https://www-accessengineeringlibrary-com.ezproxy.sibdi.ucr.ac.cr/content/book/9780071740111/chapter/chapter9
