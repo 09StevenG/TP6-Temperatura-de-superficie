@@ -98,7 +98,7 @@ El Instituto de Acueductos y Alcantarillados quiere evaluar la duración y el mo
 -	Analice las máximas de temperaturas y contrastes de estacionalidad climática.
 
 La máxima temperatura al visualizar las series temporales se presenta en los primeros 6 meses en el año 2015 con una media de 33 grados celsius y llegando con una temperatura máxima hasta 36,6 grados celsius en el mes de abril. La media durante los primeros 6 meses del año 2014 fue de 32 grados celsius con una máxima de 35,6 igualmente en el mes de abril.
-Es por ello que se refuerza lo conocido en el Pacífico Norte de Costa Rica, de una época seca bien definida que abarca desde el mes de diciembre hasta abril. En ambas series se puede identificar la disminución de la temperatura a partir del mes de mayo que se extiende hasta finales de octubre. Es preciso destacar lo expuesto por Gutiérrez (2021) "es normal que en el mes de julio haya una disminución en la precipitación, a la cual se le conoce como Veranillo de San Juan o canícula, esto por un período de 2 a 3 semanas (Birkel, et ál., 2017). Las máximas precipitaciones ocurren en octubre y se relacionan con la posición de la Zona de Convergencia Intertropical (ZCIT)"(p.02). 
+Es por ello que se refuerza lo conocido en el Pacífico Norte de Costa Rica, de una época seca bien definida que abarca desde el mes de diciembre hasta abril. En ambas series se puede identificar la disminución de la temperatura a partir del mes de mayo que se extiende hasta finales de octubre. De acuerdo con Birkel, et al., 2017 (citado en Gutiérrez, 20121) "es normal que en el mes de julio haya una disminución en la precipitación, a la cual se le conoce como Veranillo de San Juan o canícula, esto por un período de 2 a 3 semanas". Las máximas precipitaciones ocurren en octubre y se relacionan con la posición de la Zona de Convergencia Intertropical (ZCIT)"(p.02). 
 
 A finales del siglo XX e inicios del XXI, se registraron sequías severas en la región Chorotega. Temperaturas registradas entre enero a mayo del año 2000 en esa región.
 
@@ -124,4 +124,4 @@ ASTER satellite sensor specifications. Satellite Imaging Corp. Recuperado de htt
 
 Quesada-Hernández, L. E., Hidalgo, H. G., & Alfaro, E. J. (2020). Asociación entre algunos índices de sequía e impactos socio-productivos en el Pacífico Norte de Costa Rica. Revista de Ciencias Ambientales, 54(1), 16-32.
 
-Gutiérrez García, K. Análisis probabilístico de sequía meteorológica mediante Cadenas de Markov y Redes Bayseianas; Cuenca del Río Tempisque, Guanacaste.
+Gutiérrez García, K.(2021). Análisis probabilístico de sequía meteorológica mediante Cadenas de Markov y Redes Bayseianas; Cuenca del Río Tempisque, Guanacaste.
