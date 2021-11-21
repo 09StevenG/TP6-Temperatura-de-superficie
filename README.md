@@ -54,7 +54,7 @@ Para identificar diferentes tipos de rocas y suelo desde el espacio, el sensor A
 
 Para analizar islas de calor es posible utilizar el Thermal Infrared Sensor (TIRS) en Landsat 8. De igual forma el sensor ATLAS puede ser utilizado para escalas más locales
 
-![Landsat 8 of Baltimore area using TIRS](http://urbanhi.net/_Media/balt_20180708_tir-2_med_hr-2.png)
+![Landsat 8 of Baltimore area using TIRS](baltimore.png)
 
 ## Metodología: Datos utilizados, explicación del sensor MODIS LST para medir temperatura diurna y nocturna. 
 
