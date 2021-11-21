@@ -114,7 +114,7 @@ El 06 de abril del 2000 se registró una temperatura de 37 grados Celsius, siend
 > Dentro de las áreas en el nivel mundial donde la sequía es recurrente, se encuentra el Corredor  Seco  Centroamericano  (CSC),  el  cual  es  una  franja  con  una  alta  incidencia  de  sequías  (Gotlieb et al., 2019). El CSC se extiende a lo largo de la vertiente del Pacífico de Centroamérica, desde Chiapas, México hasta Guanacaste en Costa Rica e incluye el Arco Seco de Panamá (CCAD, 2011; Gotlieb et al., 2019).(Quesada et al.,2020,p.17). 
 
 
-                                                                        **Referencias** 
+   **Referencias** 
 
 
 Weng, Qihao. 2012. “Percepción térmica remota”. Cap. 9 en Introducción a la teledetección contemporánea . 1ª ed. Nueva York: McGraw-Hill Education. https://www-accessengineeringlibrary-com.ezproxy.sibdi.ucr.ac.cr/content/book/9780071740111/chapter/chapter9
