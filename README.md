@@ -67,6 +67,9 @@ Para analizar islas de calor es posible utilizar el Thermal Infrared Sensor (TIR
 <img src="ImagenDia16A.jpeg" alt="drawing" width="400" height="400">  <img src="ImageNoche16A.jpeg" alt="drawing" width="400" height="400">
 
 ![](16añosDia.png)
+
+Al visualizar esta serie temporal larga se evidencia un patrón de la temperatura determinado por la época seca con una duración apriximada de 4 meses iniciando desde diciembre y extendiéndose hasta el mes de abril. Luego de ello la temperatura disminuye junto con la época lluviosa. 
+
 ![](16añosNoche.png)
 
 
