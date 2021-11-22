@@ -34,7 +34,7 @@ Como la relación entre emisividad y reflectancia es igual a 1, un buen reflecto
 
 
 
-### **Aplicaciones de la teledetección térmica: ** 
+### **Aplicaciones de la teledetección térmica** 
 
 - Identificación los materiales de la superficie de la Tierra (como tipos y estructuras de suelos, minerales y rocas).
 
